@@ -1,5 +1,6 @@
-@import "demo";
+@import "demo.css";
 
 body {
+  /* This should take precedence but doesn't. */
   background: blue;
 }
